@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald&display=swap');
+
+
+body {
+
+
+    background-image: url('images/fundo\ tela\ 3.avif'); /* Nome do arquivo entre aspas 
+    */
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     font-family: 'Lobster', 'Oswald', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 20px;
+    text-align: left;
+justify-content: left;
+    font-size: 30px;
+    color: #ccdcec;
+    font-family: 'Lobster', 'Oswald', sans-serif;
+
+}
+
+#contact-form {
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    color: rgb(247, 242, 242);
+}
+
+#contato {
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    color: rgb(247, 242, 242);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #f4f5f7;
+    font-family: 'Lobster', 'Oswald', sans-serif;
+
+
+
+
+
+}
+
+
+label, input, textarea {
+    display: block;
+    width: 100%;
+    margin: 10px auto;
+    padding: 10px auto;
+    margin-right: 50px;
+    font-size: 20px;
+
+}
+
+button {
+    background-color: rgb(153, 64, 8);
+    color: white;
+    border: 0;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+
+
+.hidden {
+    display: none;
+}
+
+.menu-1 {
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    font-style: oblique;
+    font-size: 20px;
+    color: white;
+    font-family: 'Lobster', 'Oswald', sans-serif;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: beige;
+}
+
+  .Envolver {
+    display: block;
+    border: 12px ;
+    padding: 30px;
+    margin: 10px;
+
+    float: left;
+    width: 50%;
+
+  }
+  .Rodape {
+    display: flex;
+    justify-content: space-around;
+    align-content: space-between;
+    list-style-type: none;
+    margin-top: 500px;
+    padding: 10px;
+    text-decoration: none;
+    font-style: oblique;
+    font-size: 20px;
+    color:#eaebec;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    }
+  
+    .Rodape a i {
+     margin-right: 0px; /* Espaçamento entre o ícone e o texto */
+  }
+
+
+  .Rodape a i.bi-instagram {
+    color: #E4405F; /* Cor do Instagram */
+  }
+  
+  .Rodape a i.bi-linkedin {
+    color: #0077B5; /* Cor do LinkedIn */
+  }
+  
+  .Rodape a i.bi-whatsapp {
+    color: #25D366; /* Cor do WhatsApp */
+  }
+
+  
+ 
+/* Media Query para telas menores, ajuste conforme necessário */
+@media screen and (max-width: 768px) {
+  h1 {
+      font-size: 24px;
+  }
+
+  label, input, textarea {
+      margin-right: 0; /* Removido o margin-right para telas menores */
+  }
+
+  .Envolver, #contact-form, #contato {
+      width: 100%;
+  }
+
+  .Rodape, .menu-1 {
+      flex-direction: row; /* Alterado de coluna para linha para telas menores */
+  }
+
+  .Rodape a i {
+      margin-right: 10px; /* Adicionado espaçamento entre ícones para telas menores */
+  }
+}
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

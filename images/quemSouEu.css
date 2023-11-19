@@ -1,0 +1,270 @@
+/* Importando a fonte Lobster do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans&family=Oswald&display=swap');
+
+
+/* Estilizando o texto */
+#target {
+    font-family: 'Lobster', 'Oswald', sans-serif; /* Usando a fonte Lobster importada */
+    font-size: 60px;
+    color: hsl(12, 20%, 95%); /* Cor do texto */
+    text-shadow: 2px 2px 4px rgba(247, 244, 244, 0.2); /* Sombra do texto */
+}
+
+body {
+    background-image: url('fundo\ tela\ 3.avif'); /* Nome do arquivo entre aspas */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Lobster', 'Oswald', sans-serif;
+    
+}
+
+.menu-1 {
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    font-style: oblique;
+    font-size:20px;
+    color: white;
+    font-family: 'Lobster', 'Oswald', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+img {
+    float: left ; /* Alinha a imagem à esquerda */;
+
+    height: 30%; /* Ajusta a altura da imagem */   
+    width: 30%; /* Ajusta a largura da imagem */
+    display: block; /* Remove espaços em branco ao redor da imagem */
+    margin: 0 50px 0 0; /* Adiciona margem à direita da imagem para separá-la do texto */
+    border-radius: 100%; /* Torna a imagem redonda */
+    border: 5px solid  rgb(252, 250, 249); /* Adiciona uma borda branca na imagem */
+    box-shadow: 0 0 20px rgba(252, 249, 249, 0.3); /* Adiciona uma sombra à imagem */
+}
+
+
+.cafe{
+    width: 30%;
+    height: 50%;
+    margin-left: 2%;
+    margin-top:10%;
+    margin-bottom: 10%;
+   
+}
+
+#target{
+    margin-top: 10%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+    color:  rgb(240, 239, 239);
+    font-size: 50px;
+    font-family: 'Lobster', 'Oswald', sans-serif;
+}
+
+
+
+.texto{
+    margin-top: 10%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: rgb(248, 245, 243);
+    font-size: 100%;
+    font-family: 'Oswald', sans-serif;
+}
+
+@media (max-width: 768px) {
+    #target {
+        font-size: 40px;
+    }
+
+    .texto {
+        font-size: 80%;
+    }
+
+    img {
+        width: 80%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
